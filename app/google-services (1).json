@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "549574151512",
+    "firebase_url": "https://employeetrack-c3fed.firebaseio.com",
+    "project_id": "employeetrack-c3fed",
+    "storage_bucket": "employeetrack-c3fed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549574151512:android:b849d6944858835f9d292d",
+        "android_client_info": {
+          "package_name": "com.example.realtime_tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549574151512-4to7js0hkm45no6221r8ffhg01576f95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtime_tracking",
+            "certificate_hash": "63c93413f0e7e1f807a12063a52c8350cd9d3821"
+          }
+        },
+        {
+          "client_id": "549574151512-89lu57t8hr0s9ne172udb25d0hta7os5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE2pnL1oLnk3AI8FAUpIrlK78o-JFCS50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549574151512-89lu57t8hr0s9ne172udb25d0hta7os5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
