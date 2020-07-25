@@ -16,3 +16,16 @@ At present there is no application that can track whether  the person is actuall
  My android application targets and solves that issue. By using this app the admin/teacher/examiners can monitor what exactly the employees/students/examinees are doing.
 If they try to exit/pause the app then the admin  :guardsman: will immediately get to see which user is offline :sleeping:  and which user  is online :raising_hand: and not only that , the admin will also be able to see their live location on a map !
 How cool is that ? :sunglasses:
+
+## Key Features:
+ - **Live Tracking**: Whenever the user pauses the app , opens another app, presses the home button , and in any other way moves away from the specified  page/activity , then the admin will be able to change in marker color in the map.
+Green marker-indicates the user is currently active :raising_hand:
+Red marker-indicates the user is away from the activity :zzz:
+
+- **Admin not Trackable** : The Admin's live status will not be reflected in the app , so that the admin can monitor the users correctly.
+
+- **Location status** -  The Admin will be able to see pin-point location of the user in the map , and thus will be sure of the users location.
+
+
+
+ 
