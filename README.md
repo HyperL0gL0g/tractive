@@ -1,10 +1,11 @@
-:octocat:
 
-# LIVE-ACTIVITY-TRACKING ANDROID APPLICATION :iphone:
+#  LIVE-ACTIVITY-TRACKING ANDROID APPLICATION :iphone:
 
 ## Introduction
 This is an Android Application that lets one track other users activity on the platform.
 Using this app , the **administrator**  can monitor the activity of its employees or users.
+ 
+ ---
 
 ## Installation
 * Get the APK package of the code from Android Studio -> Build -> Build APK
@@ -48,6 +49,22 @@ Red marker-indicates the user is away from the activity :zzz:
 
 ## ADMIN VIEW :
 ![map view](https://github.com/logicinfinite/live-activity-tracking-android-app/blob/master/map.jpeg)
+
+
+## TODO:
+
+- [x] Add Refresh Button
+- [x] Make Buttons Bigger
+- [x] Add SignOut Functionality
+- [ ] Add checks for  invalid inputs
+- [ ] Add Progress Bars
+- [ ] Change the font
+- [ ] Add reset Password/Email Verification
+- [ ] Add Dark Mode
+- [ ] Background Location Collection
+- [ ] Improve the UI
+
+
 
 
 
