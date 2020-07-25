@@ -10,7 +10,7 @@
         android:id="@+id/textView3"
         android:layout_width="394dp"
         android:layout_height="70dp"
-        android:text="WORK"
+        android:text="WORKSPACE"
         android:textAlignment="center"
         android:textColor="@color/colorPrimaryDark"
         android:textSize="30dp"
