@@ -17,13 +17,13 @@ Using this app , the **administrator**  can monitor the activity of its employee
 In schools and colleges ,students use mal-practices in the online examinations.While giving exams, they would just open another tab/open the browser and search for answers in the web.
 At present there is no application that can track whether  the person is actually present in the required apllication or the application is just running in the background.
  My android application targets and solves that issue. By using this app the admin/teacher/examiners can monitor what exactly the employees/students/examinees are doing.
-If they try to exit/pause the app then the admin  :guardsman: will immediately get to see which user is offline :sleeping:  and which user  is online :raising_hand: and not only that , the admin will also be able to see their live location on a map :earth_asia:
+If they try to exit/pause the app then the admin  :guardsman: will immediately get to see which user is offline :sleeping:  and which user  is online :raising_hand: and not only that , the admin will also be able to see their live location on a map :earth_asia:  
 How cool is that ? :sunglasses:
 <br/><br/>
  ---
 ## :dart: Key Features:
 
- - **Live Tracking**: Whenever the user pauses the app , opens another app, presses the home button , and in any other way moves away from the specified  page/activity , then the admin will be able to change in marker color in the map.
+ - **Live Tracking**: Whenever the user pauses the app , opens another app, presses the home button , and in any other way moves away from the specified  page/activity , then the admin will be able to  see the change in marker color in the map.
 Green marker-indicates the user is currently active :raising_hand:
 Red marker-indicates the user is away from the activity :zzz:
 
