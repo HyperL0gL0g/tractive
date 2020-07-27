@@ -29,7 +29,7 @@ Red marker-indicates the user is away from the activity :zzz:
 
 - :guardsman: **Admin not Trackable** : The Admin's live status will not be reflected in the app , so that the admin can monitor the users correctly.
 
-- :earth_asia: **Location status** -  The Admin will be able to see pin-point location of the user in the map , and thus will be sure of the users location<br/><br/>
+- :earth_asia: **Location status** -  The Admin will be able to see real-time pin-point location of the user in the map .<br/><br/>
 <br/><br/>
  ---
 ## :dart: Requirements:
