@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/bg"
     tools:context=".register">
 
     <TextView
@@ -11,8 +12,9 @@
         android:layout_width="364dp"
         android:layout_height="79dp"
         android:text="REGISTER"
+        android:textStyle="italic"
         android:textAlignment="center"
-        android:textColor="@color/colorPrimary"
+        android:textColor="#000000"
         android:textSize="60dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -40,12 +42,14 @@
         android:layout_width="204dp"
         android:layout_height="72dp"
         android:text="REGISTER"
+        android:background="#C9F3F6"
+        android:textSize="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintHorizontal_bias="0.555"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.942" />
+        app:layout_constraintVertical_bias="0.851" />
 
     <EditText
         android:id="@+id/ed_mail"
@@ -56,9 +60,10 @@
         android:inputType="textEmailAddress"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.4"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.417" />
+        app:layout_constraintVertical_bias="0.416" />
 
     <EditText
         android:id="@+id/edpass"

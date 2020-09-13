@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/board"
     tools:context=".employee_profile">
 
     <Button
@@ -16,26 +17,27 @@
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.86" />
+        app:layout_constraintVertical_bias="0.767" />
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="335dp"
-        android:layout_height="107dp"
+        android:layout_width="314dp"
+        android:layout_height="45dp"
         android:text="EMPLOYEE DASHBOARD"
         android:textAlignment="center"
-        android:textColor="@color/colorPrimaryDark"
-        android:textSize="20dp"
+        android:textColor="#030304"
+        android:textSize="25dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.34"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.043" />
+        app:layout_constraintVertical_bias="0.179" />
 
     <EditText
         android:id="@+id/name"
-        android:layout_width="371dp"
-        android:layout_height="118dp"
+        android:layout_width="387dp"
+        android:layout_height="71dp"
         android:ems="10"
         android:hint="name"
         android:inputType="textPersonName"
@@ -43,20 +45,20 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.327" />
+        app:layout_constraintVertical_bias="0.334" />
 
     <EditText
         android:id="@+id/email"
-        android:layout_width="366dp"
-        android:layout_height="115dp"
+        android:layout_width="388dp"
+        android:layout_height="68dp"
         android:ems="10"
         android:hint="email"
         android:inputType="textEmailAddress"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintHorizontal_bias="0.478"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.612" />
+        app:layout_constraintVertical_bias="0.521" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
