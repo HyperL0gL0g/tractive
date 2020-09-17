@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+//        getActionBar().hide();
         setContentView(R.layout.activity_main);
         employee_login=(Button)findViewById(R.id.employee_login);
         admin_login=(Button)findViewById(R.id.admin_login);
