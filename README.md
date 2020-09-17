@@ -32,6 +32,13 @@ Red marker-indicates the user is away from the activity :zzz:
 - :earth_asia: **Location status** -  The Admin will be able to see real-time pin-point location of the user in the map .<br/><br/>
 <br/><br/>
  ---
+
+#  :camera: Screen-shots:
+
+&nbsp;<img src="https://github.com/logicinfinite/tractive/blob/master/start.jpeg" width="200" height="400" />&nbsp; &nbsp; <img src="https://github.com/logicinfinite/tractive/blob/master/register.jpeg" width="200" height="400" />&nbsp; &nbsp; <img src="https://github.com/logicinfinite/tractive/blob/master/login.jpeg" width="200" height="400" />&nbsp;
+
+  ---
+
 ## :dart: Requirements:
 
 - Android Smart-Phone :iphone:
@@ -48,7 +55,7 @@ Red marker-indicates the user is away from the activity :zzz:
 
 
 ## ADMIN VIEW :
-![map view](https://github.com/logicinfinite/live-activity-tracking-android-app/blob/master/map.jpeg)
+<img src ="https://github.com/logicinfinite/tractive/blob/master/map.jpeg" width="200" height="400" />
 
 
 ## TODO:
